@@ -81,4 +81,12 @@ def mi_vida(sueño, tareas, musica):
 
 ## 🔗 Enlaces que amo
 
-- [Youtube](https://www.youtube.com/watch?v=AESlMLMtIdM)
+-[Youtube](https://www.youtube.com/watch?v=AESlMLMtIdM)
+-[instagram](https://www.instagram.com/pelicanger__?igsh=bzNvMGF1djdic2Mz)
+-[Spotify](https://open.spotify.com/track/0RA29eVOn8cPy3aVXA7Hur?si=gutx1ucfSFKKBax0_YI7qw&utm_source=copy-link&rowId=1e768cfadce9a054)
+
+**Gracias por leer esta historia**
+**Fecha de creación:15 de agosto de 2026**
+
+
+
